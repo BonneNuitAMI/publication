@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Zixuan Zhu - Publications</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 2rem auto;
-      max-width: 800px;
-      color: #333;
-    }
-    h1, h2 {
-      color: #1a3c6e;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .pub-list {
-      margin-left: 1rem;
-    }
-    .pub-item {
-      margin-bottom: 1rem;
-    }
-  </style>
-</head>
-<body>
+
   <h1>Zixuan Zhu</h1>
   <h2>Publications</h2>
   <ol class="pub-list">
